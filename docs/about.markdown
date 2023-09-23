@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Personal Summary
 permalink: /about/
 ---
 PERSONAL SUMMARY
